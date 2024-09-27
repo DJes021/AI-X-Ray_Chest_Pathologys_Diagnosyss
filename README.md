@@ -4,6 +4,8 @@ Diagnosis de patologías pulmonares, aplicando IA sobre imágenes de rayos X.
 
 Este proyecto aborda la clasificación de imágenes de rayos X utilizando técnicas avanzadas de aprendizaje profundo. A través de este trabajo, se implementará un clasificador de imágenes basado en la arquitectura DenseNet121 mediante el uso de transfer learning. El objetivo principal es diagnosticar patologías pulmonares utilizando un conjunto de datos de rayos X, y se emplean varias técnicas para mejorar el rendimiento del modelo.
 
+Para visualizar los resultados obtenidos y añadir explicabilidad, se usará la técnica de GradCAM que nos ayudará a entender que partes de las imágenes han tomado relevancia para tomar las decisiones.
+
 ## Index
 
 - [1. Import de paquetes y funciones](#1)
